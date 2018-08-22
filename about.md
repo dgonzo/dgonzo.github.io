@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I'm the CEO of [ZIFF](https://ziff.ai) where we're working on Ai.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I live in beautiful Provo, UT with my wife, children, and pets.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[@datagonzo](https://twitter.com/datagonzo)
